@@ -1,0 +1,13 @@
+{
+    "block_height": 925462,
+    "timestamp": "2025-11-27T15:03:16",
+    "size": 1797678,
+    "weight": 3993795,
+    "tx_count": 3173,
+    "biggest_transactions": [
+        {
+            "txid": "4510860b14f0081e2cf7de5599bc618dca9cc6cc36ad83f0b8f1ed3453a20e2a",
+            "value_btc": 33.47199241
+        }
+    ]
+}
